@@ -1,8 +1,8 @@
-arduino-uno-a6-gsm
-==================
+arduino-uno-mic
+===============
 ### Reference
-- [**Mini A6 GA6-B GPRS GSM Module Board COM56 ,R24 - Faranux Electronics**](https://www.faranux.com/product/mini-a6-ga6-gprs-gsm-module-board-com56/)
-- [In-Depth: Send Receive SMS & Call with SIM800L GSM Module & Arduino](https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/)
+- [**Using The Arduino Serial Plotter To Visualize Real Time Data - Woolsey Workshop**](https://www.woolseyworkshop.com/2019/05/03/using-the-arduino-serial-plotter-to-visualize-real-time-data/)
+- [**How to Use Microphones on the Arduino - Circuit Basics**](https://www.circuitbasics.com/how-to-use-microphones-on-the-arduino/)
 
 ### How to burn
 - ```cmd
