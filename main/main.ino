@@ -10,7 +10,14 @@ void loop() {
 
   for (int i = 0; i < 10000; ++i) {
     int val = analogRead(microphonePin);
+    
+    /*arduino ide plotter*/
     Serial.println(val);
+
+    /*or third-party plotter (custom format)*/
+    Serial.print("$");
+    Serial.print(val);
+    Serial.print(";");
     
     /*mn = min(mn, val);
     mx = max(mx, val);*/
